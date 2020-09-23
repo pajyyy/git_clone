@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 https://github.com/pajyyy/git_clone.git
 pajyyy
 
@@ -14,3 +15,11 @@ https://github.com/pajyyy/git_clone.git
 
 https://github.com/pajyyy/git_clone.git
 
+=======
+pajyyy
+pajyyy
+pajyyy
+pajyyy
+pajyyy
+pajyyy
+>>>>>>> f95b8b1a307b293f077a4d3fb1e0d507c56fd217
