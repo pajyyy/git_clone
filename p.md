@@ -1,18 +1,1 @@
-<<<<<<< HEAD
-https://github.com/pajyyy/git_clone.git
-pajyyy
-
-
-https://github.com/pajyyy/git_clone.git
-
-pajyyy
-https://github.com/pajyyy/git_clone.git
-
-https://github.com/pajyyy/git_clone.git
-
-pajyyy
-pajyyy
-pajyyy
-pajyyy
-pajyyy
 pajyyy
